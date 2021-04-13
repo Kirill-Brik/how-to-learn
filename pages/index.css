@@ -14,6 +14,10 @@
 
 @import url(../blocks/description/discription.css);
 
+/* techniques */
+
+@import url(../blocks/techniques/techniques.css);
+
 /* feynman */
 
 @import url(../blocks/feynman/feynman.css);
@@ -64,6 +68,14 @@
 
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+
+/* cards */
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
 
 /* table */
 
